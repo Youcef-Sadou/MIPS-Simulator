@@ -1,0 +1,3 @@
+/home/youcef/Desktop/MIPS3/build/CMakeFiles/rebuild_cache.dir
+/home/youcef/Desktop/MIPS3/build/CMakeFiles/edit_cache.dir
+/home/youcef/Desktop/MIPS3/build/CMakeFiles/MIPS.dir

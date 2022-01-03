@@ -1,0 +1,8 @@
+addi $R5,$R0,-2
+addi $R6,$R0,-1
+addi $R0,$R0,0
+addi $R0,$R0,0
+addi $R0,$R0,0
+addi $R0,$R0,0
+add $R1,$R5,$R6
+exit
